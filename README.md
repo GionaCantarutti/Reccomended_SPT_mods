@@ -48,6 +48,9 @@
 
 ### Always consider:
 
+- [Geko's Better Progression](https://hub.sp-tarkov.com/files/file/2773-geko-s-better-progression): my own mod!
+- [L.E.W.D.S.](https://hub.sp-tarkov.com/files/file/1589-leaves-low-end-weapon-spawn-drop-rate-searcher-l-e-w-d-s/): Fixes hard spawns that have stupidly low chances
+- [Shiny Airdrop Guns!](https://hub.sp-tarkov.com/files/file/1572-shiny-airdrop-guns/): Chance to get special buffed weapons in airdrops
 - [Mod My Weight Limits](https://hub.sp-tarkov.com/files/file/2581-mod-my-weight-limits/): Allows tweaking weight limits, including options to scale bonuses based on strength and/or character level
 	- Fails to load if creating a new profile with it installed. Create profile first and then install the mod
 - [Quest Tracker](https://hub.sp-tarkov.com/files/file/1574-quest-tracker/): lets you track quest progress in-raid without opening the menu
@@ -82,18 +85,13 @@
 ### For special playthroughs:
 
 - [Bronzeman](https://hub.sp-tarkov.com/files/file/2216-bronzemanmode-by-kcy-3-9-port/): You can only purchase items that you already extracted with at least once
-- [[Geko's Better Progression]]: my own mod!
-- Softcore: a bunch of changes to the game. Largely overlaps with [[Geko's Better Progression]]
-- Realism: a whole bunch of game-changing features. Can be highly configured
+- [Softcore](https://hub.sp-tarkov.com/files/file/998-softcore-proper-singleplayer-experience-for-spt/): a bunch of changes to the game. Largely overlaps with [[Geko's Better Progression]]
+- [Realism](https://hub.sp-tarkov.com/files/file/606-spt-realism-mod/): a whole bunch of game-changing features. Can be highly configured
 
 ### Content:
 
-- Black Core: black variants of stuff
-- Collectables
-	- Pokemon cards (other cards also exist)
-	- Card case
-- Mag Tape: mags with colored tapes
-- Painter: trader for cosmetic variants of items
-- SandCore: sand-themed items
+- [Black Core](https://hub.sp-tarkov.com/files/file/1345-blackcore/): black variants of stuff
+- [Painter](https://hub.sp-tarkov.com/files/file/1412-painter/): trader for cosmetic variants of items
+- [SandCore](https://hub.sp-tarkov.com/files/file/1379-sandcore/): sand-themed items
 - WTT stuff (there's a bunch of mods from them)
-- Tactical Gear Component: a bunch of various extra items for Painter
+- [Tactical Gear Component](https://hub.sp-tarkov.com/files/file/1555-tactical-gear-component/): a bunch of various extra items for Painter
