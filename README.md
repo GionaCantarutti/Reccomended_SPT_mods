@@ -27,7 +27,7 @@
 - [Better zeroing](https://hub.sp-tarkov.com/files/file/2654-better-zeroing/): fixes zeroing issues
 - [Ram cleaner fix](https://hub.sp-tarkov.com/files/file/1827-ram-cleaner-fix/): performance
 - [Declutter](https://hub.sp-tarkov.com/files/file/1785-de-clutterer-updated-by-cj/): removes decorative clutter on maps to improve performance
--[Equip From Weapon Rack](https://hub.sp-tarkov.com/files/file/1567-equip-from-weapon-rack/)
+- [Equip From Weapon Rack](https://hub.sp-tarkov.com/files/file/1567-equip-from-weapon-rack/)
 - [Search Open Containers](https://hub.sp-tarkov.com/files/file/1265-search-open-containers/): lets you search containers in raid without closing them first
 - [Use loose loot](https://hub.sp-tarkov.com/files/file/1264-use-loose-loot/): you can use loot items in raid without picking them up first
 - [Hands are not busy](https://hub.sp-tarkov.com/files/file/1810-handsarenotbusy/): fix for a common old bug
@@ -71,7 +71,7 @@
 - [AmandsGraphics](https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/): everyone loves it, i don't. But supposedly makes the game look better
 - [Boss Notifier](https://hub.sp-tarkov.com/files/file/1737-boss-notifier/): lets you know when bosses spawn
 	- Needs to be configured to tie info to intel center level
--[Configurable Experience](https://hub.sp-tarkov.com/files/file/2588-configurable-experience/): lets you tweak skill xp gains
+- [Configurable Experience](https://hub.sp-tarkov.com/files/file/2588-configurable-experience/): lets you tweak skill xp gains
 - [Easy Skill Options](https://hub.sp-tarkov.com/files/file/1518-easy-skill-options/): similar to configurable experience
 - [Dynamic maps](https://hub.sp-tarkov.com/files/file/1981-dynamic-maps/): in-game maps (even minimap optionally)
 - [Item Context Menu Extended](https://hub.sp-tarkov.com/files/file/1283-item-context-menu-extended/): adds more stuff you can do with context menu on items
